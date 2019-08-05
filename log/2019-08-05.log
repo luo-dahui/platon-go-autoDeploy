@@ -10,3 +10,71 @@
 [2019-08-05 16:03:26,227]-deploy.py[line:506] - INFO: 生成static-node.json
 [2019-08-05 16:06:12,874]-deploy.py[line:490] - INFO: 生成genesis.json
 [2019-08-05 16:06:12,875]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-08-05 16:12:03,789]-deploy.py[line:490] - INFO: 生成genesis.json
+[2019-08-05 16:12:03,790]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-08-05 16:16:29,394]-deploy.py[line:492] - INFO: 生成genesis.json
+[2019-08-05 16:16:29,395]-deploy.py[line:508] - INFO: 生成static-node.json
+[2019-08-05 16:16:50,441]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:50,456]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:51,074]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:51,160]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:51,361]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:51,597]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:51,731]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:51,889]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:51,912]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:51,927]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,031]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,033]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,196]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,311]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:52,318]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,323]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,369]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,393]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,410]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:52,481]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,526]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,562]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,587]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:52,600]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:52,600]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:52,645]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:52,662]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,678]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,687]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:52,729]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,734]-deploy.py[line:189] - INFO: ./platon_test/node-16789/platon --datadir ./platon_test/node-16789/data --config ./platon_test/node-16789/config.json init ./platon_test/node-16789/genesis.json
+[2019-08-05 16:16:52,770]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,791]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,793]-deploy.py[line:189] - INFO: ./platon_test/node-15678/platon --datadir ./platon_test/node-15678/data --config ./platon_test/node-15678/config.json init ./platon_test/node-15678/genesis.json
+[2019-08-05 16:16:52,812]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:52,895]-deploy.py[line:189] - INFO: ./platon_test/node-16790/platon --datadir ./platon_test/node-16790/data --config ./platon_test/node-16790/config.json init ./platon_test/node-16790/genesis.json
+[2019-08-05 16:16:53,011]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,069]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,114]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,169]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,197]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,224]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,229]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,241]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,249]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,298]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,359]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,541]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,563]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,573]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,676]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,684]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,702]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,704]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,783]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,783]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,787]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,787]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:53,883]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:54,152]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:54,154]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:57,519]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:57,529]-deploy.py[line:191] - INFO: []
+[2019-08-05 16:16:57,541]-deploy.py[line:191] - INFO: []

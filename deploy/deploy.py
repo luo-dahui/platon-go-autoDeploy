@@ -186,7 +186,9 @@ class BaseDeploy:
         """
         p = '{}/node-{}'.format(self.deploy_path, port)
         cmd = '{}/platon --datadir {}/data --config {}/config.json init {}/genesis.json'.format(p, p, p, p)
+        log.info(cmd)
         s = self.run_ssh(ssh, cmd)
+        #log.info(s)
         return s
 
     def clean_blockchain(self, ssh, port, password):
@@ -315,7 +317,7 @@ class BaseDeploy:
         sftp.put(self.cbft, remote_cbft_path)
 
     def upload_config_json(self, sftp, port):
-        remote_config_path = '{}/node-{}/data/config.json'.format(
+        remote_config_path = '{}/node-{}/config.json'.format(
             self.deploy_path, port)
         sftp.put(self.config, remote_config_path)
 
@@ -326,7 +328,7 @@ class BaseDeploy:
         :return:
         """
         fail_list = []
-        time.sleep(10)
+        time.sleep(20)
         for node in node_list:
             w3 = connect_web3(node["url"])
             if not w3.isConnected():
@@ -811,14 +813,14 @@ class AutoDeployPlaton(BaseDeploy):
                     node["path"] + \
                     "{}/{}/data/nodekey".format(self.deploy_path, node_name)
                 cmd = cmd + \
-                    " --config {}/{}/data/config.json".format(
+                    " --config {}/{}/config.json".format(
                         self.deploy_path, node_name)
             else:
                 cmd = cmd + " --gcmode archive --nodekey " + \
                     "{}/{}/{}/data/nodekey".format(pwd,
                                                    self.deploy_path, node_name)
                 cmd = cmd + \
-                    " --config {}/{}/{}/data/config.json".format(
+                    " --config {}/{}/{}/config.json".format(
                         pwd, self.deploy_path, node_name)
             fp.write("command=" + cmd + "\n")
             fp.write("environment=LD_LIBRARY_PATH={}/mpclib\n".format(pwd))
