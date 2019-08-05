@@ -1,0 +1,3 @@
+[2019-05-05 14:31:39,678]-deploy.py[line:472] - INFO: 生成genesis.json
+[2019-05-05 14:31:39,698]-deploy.py[line:488] - INFO: 生成static-node.json
+[2019-05-05 14:32:14,557]-deploy.py[line:320] - INFO: 所有节点启动成功

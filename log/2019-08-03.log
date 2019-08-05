@@ -1,0 +1,4 @@
+[2019-08-03 10:16:10,644]-deploy.py[line:493] - INFO: 生成genesis.json
+[2019-08-03 10:16:10,646]-deploy.py[line:509] - INFO: 生成static-node.json
+[2019-08-03 12:21:52,896]-deploy.py[line:493] - INFO: 生成genesis.json
+[2019-08-03 12:21:52,897]-deploy.py[line:509] - INFO: 生成static-node.json

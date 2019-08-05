@@ -1,0 +1,12 @@
+[2019-07-31 10:09:41,310]-deploy.py[line:490] - INFO: 生成genesis.json
+[2019-07-31 10:09:41,311]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-07-31 10:11:33,657]-deploy.py[line:338] - INFO: 所有节点启动成功
+[2019-07-31 11:09:44,144]-deploy.py[line:490] - INFO: 生成genesis.json
+[2019-07-31 11:09:44,145]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-07-31 11:11:29,893]-deploy.py[line:338] - INFO: 所有节点启动成功
+[2019-07-31 14:59:19,659]-deploy.py[line:490] - INFO: 生成genesis.json
+[2019-07-31 14:59:19,660]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-07-31 15:01:12,903]-deploy.py[line:338] - INFO: 所有节点启动成功
+[2019-07-31 19:17:08,028]-deploy.py[line:490] - INFO: 生成genesis.json
+[2019-07-31 19:17:08,030]-deploy.py[line:506] - INFO: 生成static-node.json
+[2019-07-31 19:19:06,260]-deploy.py[line:338] - INFO: 所有节点启动成功
